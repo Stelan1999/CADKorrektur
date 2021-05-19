@@ -73,10 +73,10 @@
 (I02) Fehlender / falscher Maßstab oder unnötiger Maßstab bei Ansicht / Detail / Schnitt;
 (I03) Fehlender / falscher Globalmaßstab;
 (I04) Maßstabsumrechnung in Bemaßungswert;
-(J01) Klappungssymbol fehlt;
-(J02) Allgemeintoleranz DIN ISO 2768-mK fehlt;
-(J03) Gusstoleranz ISO 8062-CT12 fehlt;
-(J04) Angabe der Formschrägen DIN EN 12890 bei Gussteil fehlt;
+(J01) Klappungssymbol fehlt/falsch;
+(J02) Allgemeintoleranz DIN ISO 2768-mK fehlt/falsch;
+(J03) Gusstoleranz ISO 8062-CT12 fehlt/falsch;
+(J04) Angabe der Formschrägen DIN EN 12890 bei Gussteil fehlt/falsch;
 (J05) Fehlende / falsche Angaben im Schriftfeld bsp.: Werkstoff;
 (J06) Fehlendes / nicht genormtes Schriftfeld;
 (K01) Leere oder unzulässige Abgabe;
